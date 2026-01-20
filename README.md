@@ -17,6 +17,29 @@ This project focuses on real-world use cases like surveying **classrooms, labora
 
 ---
 
+🔐 Demo Login Credentials (For Project Evaluation)
+
+In this system, only the Admin can create Surveyor accounts, similar to real-world ISP workflows.
+For evaluation and testing purposes, the following demo credentials are provided.
+
+👨‍💼 Admin Account
+
+Username: admin
+
+Password: admin123
+
+🧑‍🔧 Surveyor Accounts
+
+Username: surveyor1
+
+Password: surveyor123
+
+Username: surveyor2
+
+Password: surveyor123
+
+---
+
 ## 🧩 Project Features
 
 - 🔐 JWT-based Authentication & Role Management  
